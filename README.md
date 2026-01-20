@@ -1,3 +1,3 @@
 # pages-hello-world
 
-this is a yet another change, this time with github actions
+This is a hello-world type repo for future reference
